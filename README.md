@@ -21,7 +21,7 @@ You can download an example dataset [here](http://proteomics.fiocruz.br/diagnoma
 
 *Figure 1: Follow the folder structure as shown to ensure correct data processing.*
 
-![Alt text](images/image001.png)
+![Alt text](Images/image001.png)
 
 > **Warning:** Visualizing the spectra in item 6.2.1 is necessary to use this data structure. The raw files are deposited in PRIDE (PXD035961).
 
