@@ -19,23 +19,23 @@ You can download an example dataset [here](http://proteomics.fiocruz.br/diagnoma
 
 **Follow the data structure in folders:**
 
-*Figure 1: Follow the folder structure as shown to ensure correct data processing.*
-
 ![Alt text](Images/image001.png)
+
+*Figure 1: Follow the folder structure as shown to ensure correct data processing.*
 
 > **Warning:** Visualizing the spectra in item 6.2.1 is necessary to use this data structure. The raw files are deposited in PRIDE (PXD035961).
 
 ### 4. Login
 
-*Figure 2: DiagnoMass login screen.*
-
 ![Alt text](Images/image002.jpg)
+
+*Figure 2: DiagnoMass login screen.*
 
 #### 4.1 Click on Login -> Register New User
 
-*Figure 3: DiagnoMass registration screen.*
-
 ![Alt text](Images/image003.jpg)
+
+*Figure 3: DiagnoMass registration screen.*
 
 DiagnoMass requires a login and password. An existing user creates the login, allowing for the identification of the spread of software use.
 
@@ -43,23 +43,23 @@ DiagnoMass requires a login and password. An existing user creates the login, al
 
 #### 5.1 Click on Knowledgebase -> Create Knowledgebase
 
-*Figure 4: Create a new Knowledgebase in DiagnoMass.*
-
 ![Alt text](Images/image004.png)
+
+*Figure 4: Create a new Knowledgebase in DiagnoMass.*
 
 #### 5.2 Click on Add Directory
 
-*Figure 5: Adding a directory to the Knowledgebase.*
-
 ![Alt text](Images/image005.jpg)
+
+*Figure 5: Adding a directory to the Knowledgebase.*
 
 #### 5.3 Click on Generate
 
 #### 5.4 Click on Knowledgebase -> Load KB
 
-*Figure 6: Load an existing Knowledgebase.*
-
 ![Alt text](Images/image006.jpg)
+
+*Figure 6: Load an existing Knowledgebase.*
 
 > **Warning:** The identification files must be inside the directories.
 
@@ -67,33 +67,33 @@ DiagnoMass requires a login and password. An existing user creates the login, al
 
 #### 6.1 Click on Analyze -> Dimensional Reduction
 
-*Figure 7: The dimensionality reduction viewer in DiagnoMass.*
+![Alt text](Images/image008.jpg)
 
-![Alt text](Image007.jpg)
+*Figure 7: The dimensionality reduction viewer in DiagnoMass.*
 
 The tree view shows the hierarchy of biological conditions, biological replicates, and technical replicates. Data visualization can provide plots generated with PCA or t-SNE.
 
 #### 6.2 Click on Analyze -> Heatmap
 
-*Figure 8: Heatmap generation in DiagnoMass.*
+![Alt text](Images/image009.jpg)
 
-![Alt text](Images/image008.jpg)
+*Figure 8: Heatmap generation in DiagnoMass.*
 
 The comparison of all biological replicates generates a heat map; lighter shades denote more similar samples. On the right is a bar plot showing the number of exclusive spectral clusters for each condition.
 
 #### 6.2.1 Click on Analyze -> Heatmap -> Exclusive Spectral Clusters
 
-*Figure 9: DiagnoMass discriminant cluster explorer.*
+![Alt text](Images/image0010.jpg)
 
-![Alt text](Images/image009.jpg)
+*Figure 9: DiagnoMass discriminant cluster explorer.*
 
 ### 7. Classify
 
 #### 7.1 Click on Browse and Select the Raw File to Classify
 
+![Alt text](Images/image011.jpg)
+
 *Figure 10: Select a raw file to classify in DiagnoMass.*
 
-![Alt text](Images/image011.jpg)
 ---
-
 
