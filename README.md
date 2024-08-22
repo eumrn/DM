@@ -29,13 +29,13 @@ You can download an example dataset [here](http://proteomics.fiocruz.br/diagnoma
 
 *Figure 2: DiagnoMass login screen.*
 
-![Alt text](images/image002.png)
+![Alt text](Images/image002.jpg)
 
 #### 4.1 Click on Login -> Register New User
 
 *Figure 3: DiagnoMass registration screen.*
 
-![Alt text](images/image003.png)
+![Alt text](Images/image003.jpg)
 
 DiagnoMass requires a login and password. An existing user creates the login, allowing for the identification of the spread of software use.
 
@@ -45,13 +45,13 @@ DiagnoMass requires a login and password. An existing user creates the login, al
 
 *Figure 4: Create a new Knowledgebase in DiagnoMass.*
 
-![Alt text](images/image004.png)
+![Alt text](Images/image004.png)
 
 #### 5.2 Click on Add Directory
 
 *Figure 5: Adding a directory to the Knowledgebase.*
 
-![Alt text](images/image005.png)
+![Alt text](Images/image005.jpg)
 
 #### 5.3 Click on Generate
 
@@ -59,7 +59,7 @@ DiagnoMass requires a login and password. An existing user creates the login, al
 
 *Figure 6: Load an existing Knowledgebase.*
 
-![Alt text](images/image006.png)
+![Alt text](Images/image006.jpg)
 
 > **Warning:** The identification files must be inside the directories.
 
@@ -69,7 +69,7 @@ DiagnoMass requires a login and password. An existing user creates the login, al
 
 *Figure 7: The dimensionality reduction viewer in DiagnoMass.*
 
-![Alt text](images/image007.png)
+![Alt text](Image007.jpg)
 
 The tree view shows the hierarchy of biological conditions, biological replicates, and technical replicates. Data visualization can provide plots generated with PCA or t-SNE.
 
@@ -77,7 +77,7 @@ The tree view shows the hierarchy of biological conditions, biological replicate
 
 *Figure 8: Heatmap generation in DiagnoMass.*
 
-![Alt text](images/image008.png)
+![Alt text](Images/image008.jpg)
 
 The comparison of all biological replicates generates a heat map; lighter shades denote more similar samples. On the right is a bar plot showing the number of exclusive spectral clusters for each condition.
 
@@ -85,7 +85,7 @@ The comparison of all biological replicates generates a heat map; lighter shades
 
 *Figure 9: DiagnoMass discriminant cluster explorer.*
 
-![Alt text](images/image009.png)
+![Alt text](Images/image009.jpg)
 
 ### 7. Classify
 
@@ -93,7 +93,7 @@ The comparison of all biological replicates generates a heat map; lighter shades
 
 *Figure 10: Select a raw file to classify in DiagnoMass.*
 
-![Alt text](images/image010.png)
+![Alt text](Images/image010.jpg)
 
 ---
 
