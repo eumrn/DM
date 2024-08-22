@@ -94,7 +94,6 @@ The comparison of all biological replicates generates a heat map; lighter shades
 *Figure 10: Select a raw file to classify in DiagnoMass.*
 
 ![Alt text](Images/image011.jpg)
-
 ---
 
-This `README.md` content is ready to be added to your GitHub repository. Ensure that all image paths correspond to the correct files in your `images` folder.
+
