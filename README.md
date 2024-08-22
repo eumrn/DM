@@ -83,7 +83,7 @@ The comparison of all biological replicates generates a heat map; lighter shades
 
 #### 6.2.1 Click on Analyze -> Heatmap -> Exclusive Spectral Clusters
 
-![Alt text](Images/image0010.jpg)
+![Alt text](Images/image010.jpg)
 
 *Figure 9: DiagnoMass discriminant cluster explorer.*
 
